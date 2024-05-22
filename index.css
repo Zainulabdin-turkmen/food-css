@@ -7,3 +7,7 @@ h1 {
 .thougth {
     color: green;
 }
+
+.images-container image {
+   width: 285px;
+}
