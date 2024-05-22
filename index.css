@@ -8,6 +8,7 @@ h1 {
     color: green;
 }
 
-.images-container image {
-   width: 285px;
+.images-container img {
+    width: 285px;
+    height: 199px;
 }
