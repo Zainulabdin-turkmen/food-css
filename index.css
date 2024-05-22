@@ -20,5 +20,6 @@ h1 {
 
 .images-container {
     display: flex;
+    gap: 1rem;
     
 }
