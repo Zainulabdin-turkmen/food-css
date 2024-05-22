@@ -17,3 +17,8 @@ h1 {
     height: 199px;
     object-fit: cover;
 }
+
+.images-container {
+    display: flex;
+    
+}
